@@ -1,6 +1,7 @@
 #Copyright Beta ORI Inc. Canada. All Rights Reserved.
 # Author Awase Khirni Syed 
 # Version 2.0 
+#Sonora is Tradermark of Beta ORI Inc. Canada.
 
 Id	Module Name	Description & Business Case
 CORE MODULES		
